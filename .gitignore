@@ -1,0 +1,12 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Local data
+data/
+*.db
+*.sqlite
+
+# Env vars
+.env
