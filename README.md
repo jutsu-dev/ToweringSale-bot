@@ -1,4 +1,4 @@
-# Toweringsale б — модераторский бот (aiogram 3)
+# Toweringsale — модераторский бот (aiogram 3)
 
 ## Запуск
 ```bash
