@@ -9,7 +9,7 @@ python app.py
 По умолчанию уже задано:
 - BOT_TOKEN (вшит)
 - OWNER_ID = 6089346880
-- PROJECT_NAME = "Toweringsale б"
+- PROJECT_NAME = "Toweringsale"
 
 ### Куда публикуются посты?
 - Установите канал публикаций командой в админке:
